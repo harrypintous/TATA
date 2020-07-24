@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/environment/ApacheSparkDeepLearningCookbook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/environment/ApacheSparkbook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/environment/quandl-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/environment/quandl-python-Github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quandl-python" vcs="Git" />
+  </component>
+</project>
