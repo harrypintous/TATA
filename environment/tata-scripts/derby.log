@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 01 15:21:41 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-ac1d-cea4-000020745ae0 
+on database directory /home/hpinto/TataProjects/TATA/environment/tata-scripts/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@32fd4251 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_252-8u252-b09-1~19.10-b09
+user.dir=/home/hpinto/TataProjects/TATA/environment/tata-scripts
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-62-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

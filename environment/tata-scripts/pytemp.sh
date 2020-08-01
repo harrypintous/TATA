@@ -1,5 +1,2 @@
 /opt/spark/bin/spark-submit \
-  /home/hpinto/PycharmProjects/tata/temp.py
-
-
-
+/home/hpinto/TataProjects/TATA/environment/tata-scripts/temp.py

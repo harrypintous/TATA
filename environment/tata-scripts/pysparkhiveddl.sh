@@ -1,5 +1,5 @@
 /opt/spark/bin/spark-submit \
-  /home/hpinto/environment/'Python-spark'/SparkHiveDDL.py
+  /home/hpinto/TataProjects/TATA/environment/Python-spark/SparkHiveDDL.py
 
 
 
