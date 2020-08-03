@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Mon Aug 03 02:30:44 PDT 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-b3a8-b219-000016c3ee90 
-on database directory /home/hpinto/TataProjects/TATA/environment/quandl-pyspark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5a305537 
+Mon Aug 03 02:39:02 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0173-b3b0-4e17-00001850f738 
+on database directory /home/hpinto/TataProjects/TATA/environment/quandl-pyspark/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2c0002fe 
 Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
 java.vendor=Private Build
 java.runtime.version=1.8.0_252-8u252-b09-1~19.10-b09
