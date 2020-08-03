@@ -65,7 +65,7 @@ spark.sql("show tables").show()
 insertDF = spark.sql("select * from DimNSEOIL")
 #insertDF.write.mode("append").saveAsTable("DimAppl")
 
-spark.sql("select * from DimAppl").show()
+#spark.sql("select * from DimAppl").show()
 
 print('Reading in Progresql')
 #--postgresql open database & Read Class Table
@@ -100,5 +100,4 @@ p_schema = StructType([StructField('Open',StringType(),True),
                        StructField('TurnoverLacs',StringType(),True)])
 
 
-
-
+spark.sql("select * from DimNSEOIL").show()
